@@ -24,4 +24,4 @@ http://www.monosus.co.jp/posts/2018/05/233343.html
 1. `var searchSelector = [`で、どのパーツ情報を取得するか指定します。（セレクタ
 1. `var exportPath = './dest/scraping_data/';`にてどこにエクセルデータを出力するかを設定します。（相対パス
 1. ダウンロードしたフォルダにて、コマンドラインorターミナルで`gulp scraping`を実行してください。
-1. `var exportPath = './dest/scraping_data/'で設定したフォルダに、エクセルが出力されます。
+1. `var exportPath = './dest/scraping_data/'`で設定したフォルダに、エクセルが出力されます。
